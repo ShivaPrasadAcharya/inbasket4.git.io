@@ -19,13 +19,13 @@ const letterData = [
     images: [],
     signature1: {
         sign: "",
-        name: "अशिया देवी ठाकुर",
-        position: "जाहेरीदरखास्तकर्ता"
+        name: "",
+        position: ""
     },
     signature2: {
-        sign: "",
+        sign: "जाहेरीदरखास्तकर्ता",
         name: "शिव देवी ठाकुर",
-        position: ""
+        position: "अशिया देवी ठाकुर"
     },
     footerPhone: "",
     footerEmail: "",
