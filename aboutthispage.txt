@@ -1,0 +1,5 @@
+this is inbasket exercise that is taken by public service commissiion in Nepal.
+
+this content can be enabled or disabled (emptying content) through data.js entries YES and NO function.
+(for copyright protection)
+
