@@ -67,7 +67,44 @@ const letterData = [
     emptyPage: "NO",
     emptyEntry: []
 },
-    
+     {
+        itemNo: "आइटम ८",
+        officeName1: [""],
+        officeName2: [""],
+        contactInfo: [""],
+        department: "",
+        mainOffice: "",
+        entryNo: "",
+        entryDate: "",
+        dispatchedNo: "",
+        caseNo: "",
+        date: "",
+        subject: "",
+        addressedTo: [""],
+        content: "",
+        images: [],
+        signature1: {
+            sign: "",
+            name: "",
+            position: ""
+        },
+        signature2: {
+            sign: "",
+            name: "",
+            position: ""
+        },
+        footerPhone: "",
+        footerEmail: "",
+        tokadesh: "",
+        bodharthaList: [""],
+        emptyPage: "YES",
+        emptyEntry: [
+            "आफ्नै टिपोट",
+            "अपराधिक लाभ सम्बन्धी सर्वोच्च अदालतको नजिर खोज्ने। नजिरलाई पुनरावेदन मस्यौदामा फिट गरी भोलिसम्ममा उच्च सरकारी वकील कार्यालयमा पठाउने",
+            "contact the compiler for enabling this inbasket exercise",
+            "https://source.unsplash.com/featured/800x600"
+        ]
+    },
     {
         itemNo: "आइटम ०",
         officeName1: [""],
