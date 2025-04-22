@@ -142,12 +142,13 @@ body {
     margin-bottom: 10px;
     text-align: right;
 }
-#dispatchedNo {
-    border: 1px solid black;
-    padding: 5px 8px;
-    display: inline-block;
-    margin: 2px 0;
-  }
+/* Style for dispatchedNo entries with content */
+#dispatchedNo:not(:empty) {
+  border: 1px solid black;
+  padding: 5px 8px;
+  display: inline-block;
+  margin: 2px 0;
+}
 
 /* Letter Subject */
 .letter-subject {
