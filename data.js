@@ -69,7 +69,7 @@ const letterData = [
     emptyEntry: []
 },
      {
-        itemNo: "आइटम ८",
+        itemNo: "आइटम नं.",
         officeName1: [""],
         officeName2: [""],
         contactInfo: [""],
@@ -102,8 +102,7 @@ const letterData = [
         emptyEntry: [
             "आफ्नै टिपोट",
             "अपराधिक लाभ सम्बन्धी सर्वोच्च अदालतको नजिर खोज्ने। नजिरलाई पुनरावेदन मस्यौदामा फिट गरी भोलिसम्ममा उच्च सरकारी वकील कार्यालयमा पठाउने",
-            "contact the compiler for enabling this inbasket exercise",
-            "https://source.unsplash.com/featured/800x600"
+        
         ]
     },
     {
